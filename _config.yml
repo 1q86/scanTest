@@ -1,0 +1,6 @@
+username: 1q86
+baseurl: /scanTest
+markdown: redcarpet
+safe: false
+pygments: true
+title: 飞鸟集
